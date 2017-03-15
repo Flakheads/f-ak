@@ -1,2 +1,2 @@
-# f-ak
+# fλak
 A functional Brain-Flak
